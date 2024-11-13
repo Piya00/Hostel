@@ -52,7 +52,7 @@
 </head>
 <body>
 
-    <header>
+    <header> 
         <h1>Hostel Management System</h1>
     </header>
 
