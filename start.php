@@ -35,7 +35,7 @@
 </head> 
 
 <body>
-    <button onclick="window.location.href='http://localhost/CyberSquad/index.html'">Start</button>
+    <button onclick="window.location.href='https://www.prayash37.com.np/index.html'">Start</button>
     
 </body>
 </html>

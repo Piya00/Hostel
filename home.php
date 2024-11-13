@@ -60,9 +60,9 @@
         <a href="#">Home</a>
         <a href="About">About</a>
         <a href="Services">Services</a>
-         <a href="http://localhost/CyberSquad/add.php">Add</a>
-         <a href="http://localhost/CyberSquad/display2.php">View</a>
-        <a href="http://localhost/CyberSquad/first.html">Login</a>
+         <a href="https://www.prayash37.com.np/add.php">Add</a>
+         <a href="https://www.prayash37.com.np/display2.php">View</a>
+        <a href="https://www.prayash37.com.np/first.html">Login</a>
 
     </nav>
 <hr >
